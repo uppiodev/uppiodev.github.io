@@ -1,0 +1,10 @@
+# Uppio
+
+> Hosting for the web apps a coding agent builds: static, PHP, Python or Node with MariaDB. No sign-up: the agent starts an account itself, and its human keeps the apps through a claim link.
+
+The agent documentation, always current: https://api.madeyour.app/llms.txt
+
+- Docs for people: https://uppio.dev/docs/
+- Plans: https://uppio.dev/pricing/
+- Terms: https://uppio.dev/legal/terms/
+- Contact: hello@uppio.dev
